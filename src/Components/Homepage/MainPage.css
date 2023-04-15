@@ -1,0 +1,8 @@
+/* Homepage css */
+
+.MainPage{
+    width: 100vw;
+    height: 100vh;
+    background: url('https://ik.imagekit.io/amitesh/amazon-image/amzBackgrnimg.jpg?updatedAt=1681579553556');
+    background-size: 100vw;
+}

@@ -1,0 +1,125 @@
+/* Navbar all items css */
+
+.NavigationBar_Component{
+
+    width: 100vw;
+    height: 70px;
+    background-color: #131A22;
+    display : flex;
+    align-items: center;
+}
+
+.NavigationBar_logo{
+
+    background: url('https://ik.imagekit.io/amitesh/amazon-image/sprite_350x.png?updatedAt=1681566398833') no-repeat -9px -50px;
+	width: 98px;
+	height: 31px;
+    margin-top: 20px;
+}
+
+.NavigationBar_ParentLocation{
+    display:flex;
+    margin:12px 10px;
+}
+
+.NavigationBar_location{
+    color: white;
+    font-weight: bold;
+    margin-left: 5px;
+    
+}
+
+.NavigationBar_LocationLogo{
+    background: url('https://ik.imagekit.io/amitesh/amazon-image/sprite_350x.png?updatedAt=1681566398833') no-repeat -70px -378px;
+	width: 16px;
+	height: 18px;
+}
+
+
+.NavigationBar_SearchComponent{
+    display: flex;
+}
+
+.NavigationBar_Dropdown{
+    height: 36px;
+    width: 42px;
+    margin-top: 5px;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.NavigationBar_search{
+    height: 30px;
+    width: 500px;
+    margin-top: 5px;
+   
+}
+
+.NavigationBar_searchIcon{
+    
+    background: url('https://ik.imagekit.io/amitesh/amazon-image/sprite_350x.png?updatedAt=1681566398833') no-repeat -9px -289px;
+	width: 48px;
+	height: 48px;
+    margin : 8px;
+}
+
+.NavigationBar_searchIconDiv{
+    background-color: yellow;
+    width: 48px;
+    height: 36px;
+    border-radius: 0px 5px 5px 0px;
+    margin-top: 5px;
+}
+
+.navtext{
+    color: white;
+    display: flex;
+    font-weight: bold;
+}
+
+.NavigationBar_Singin{
+    margin: 5px 20px;
+    display: block;
+}
+
+.NavigationBar_returns{
+    margin: 5px 10px;
+    width: 70px;
+}
+
+.NavigationBar_Cart{
+margin :10px;
+}
+
+.cart_img{
+    background: url('https://ik.imagekit.io/amitesh/amazon-image/sprite_350x.png?updatedAt=1681566398833') no-repeat -217px -336px;
+	width: 43px;
+	height: 30px;
+}
+
+.NavigationBar_Cartnumber{
+    font-weight: bold;
+    position: relative;
+    left: -23px;
+    top: -4px;
+    color: orange;
+}
+
+.NavigationBar_cartText{
+margin-left: 5px;
+}
+
+/* Navbar Footer starts here */
+
+
+.NavigationBar_Footer{
+    width: 100%;
+    height: 30px;
+    background-color: #1b2530;
+    color: white;
+    display:flex;
+}
+
+.NavigationBar-FooterText{
+    margin: 4px 10px;
+    font-size: 14px;
+}
