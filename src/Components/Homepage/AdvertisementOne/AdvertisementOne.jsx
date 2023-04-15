@@ -1,6 +1,6 @@
 import React from "react";
 
-function AdvertisementOne(){
+export default function AdvertisementOne(){
     return(
         <>
             
