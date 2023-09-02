@@ -1,0 +1,26 @@
+.AdvOne_main{
+height: 400px;
+width: 335px;
+background: white;
+margin: 15px;
+}
+
+.AdvOne_header{
+    font-size: 20px;
+    line-height: 27px;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.AdvOne_body{
+
+}
+
+.AdvOne_footer{
+padding-left: 17px;
+margin-bottom: 12px;
+}
+
+.AdvOne_img{
+    width: 280px;
+}

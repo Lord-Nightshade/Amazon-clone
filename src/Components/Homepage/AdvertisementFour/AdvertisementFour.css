@@ -1,0 +1,30 @@
+.AdvFour_main{
+    height: 400px;
+    min-width: 335px;
+    max-width: 335px;
+    background: white;
+    margin: 15px;
+    }
+    
+    .AdvFour_header{
+        font-size: 20px;
+        line-height: 27px;
+        padding: 15px;
+        font-weight: bold;
+    }
+    
+    .AdvFour_body{
+    display: flex;
+     flex-wrap: wrap; 
+    }
+    
+    .AdvFour_footer{
+    padding-left: 17px;
+    margin-bottom: 12px;
+    }
+    
+    .AdvFour_img{
+        width: 140px;
+        height: 100px;
+        margin: 10px;
+    }
